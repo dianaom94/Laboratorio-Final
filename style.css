@@ -1,0 +1,22 @@
+.data-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+.box-input{
+    width: 30%;
+}
+.inputCp{
+    
+}
+.error{
+    letter-spacing: 1px;
+    color: red;
+    font-size: 15px;
+}
+
+.exito{
+    letter-spacing: 1px;
+    color: green;
+    font-size: 15px;
+}
